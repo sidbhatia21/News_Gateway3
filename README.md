@@ -1,5 +1,6 @@
 
 News_Gateway3
+
 Uses: Drawer Layout, ViewPager2, Adapters, Internet, APIs, Dynamic Menus, Implied Intents
 
 App Highlights:
